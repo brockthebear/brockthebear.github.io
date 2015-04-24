@@ -6,7 +6,7 @@
 name: Brock Boren
 
 # Short bio or description (displayed in the header)
-description: Got my B.S. in Neuroscience and now I play with computers. My parents are thrilled.
+description: Got my B.S. in Neuroscience to be a doctor and now I play with computers. My parents are thrilled.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/9483288?v=3&s=460
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: brockthebear
   instagram: senorbrock
-  linkedin: pub/brock-boren/70/b21/2b0/en
+  linkedin: in/brockboren
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: brockthebear
@@ -39,7 +39,7 @@ google_analytics: UA-58109473-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://brockboren.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
