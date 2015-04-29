@@ -3,10 +3,10 @@ layout: post
 title: Intro Post
 ---
 
-Hi, so um…yeah, I’m Brock and this is my blog.﻿
+### Hi, so um…yeah, I’m Brock and this is my blog.﻿
 
 
-Let me start off by ~~saying~~ warning all of you that I have no credentials whatsoever to be a writer.
+Let me start off by <del>saying</del> warning all of you that I have no credentials whatsoever to be a writer.
 
 Seriously. I didn’t even get into my elementary school’s Gifted & Talented program because I wasn’t “creative” enough.
 
@@ -36,7 +36,6 @@ If there is a certain topic or subject that you want to know more about and thin
 
 
 
-﻿Footnotes﻿
-1. **Spoiler alert**: you wouldn’t be surprised at all. It’s a shit-ton.
-
+﻿### Footnotes...  
+1. **Spoiler alert**: you wouldn’t be surprised at all. It’s a shit-ton.  
 2. I have never written a more blatantly false sentence in my life.
