@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### This page is under construction!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+If you are interested in contacting me, email me at the address below and let's get a conversation started.
 
 ### Contact me
 

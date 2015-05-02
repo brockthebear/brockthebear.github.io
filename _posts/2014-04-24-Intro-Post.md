@@ -3,7 +3,7 @@ layout: post
 title: Intro Post
 ---
 
-### Hi, so um…yeah, I’m Brock and this is my blog.﻿
+#### Hi, so um…yeah, I’m Brock and this is my blog.﻿
 
 
 Let me start off by <del>saying</del> warning all of you that I have no credentials whatsoever to be a writer.
