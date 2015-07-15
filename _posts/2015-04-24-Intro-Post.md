@@ -37,6 +37,7 @@ If there is a certain topic or subject that you want to know more about and thin
 
 
 
-﻿Footnotes...  
-1. **Spoiler alert**: you wouldn’t be surprised at all. It’s a shit-ton.  
-2. I have never written a more blatantly false sentence in my life.
+﻿Footnotes...   
+
+	1. **Spoiler alert**: you wouldn’t be surprised at all. It’s a shit-ton.  
+	2. I have never written a more blatantly false sentence in my life.
